@@ -1,0 +1,25 @@
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+ 
+    
+}
+
+table, th, td {
+  border: 1px solid;
+  width: 30%;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+form {
+    margin-left: 44%;
+    
+}
+
+
+
